@@ -1,0 +1,21 @@
+{
+  "name": "LONKAR GLOBAL COIN",
+  "symbol": "LGL",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "A BEP-20 utility token powering a green-energy carbon credit platform. Enables transparent tracking and trading of verified carbon offsets. Backed by real-world sustainability projects, integrated via DeFi tools for liquidity and governance.",
+  "website": "https://www.lglcoin.com",
+  "explorer": "https://bscscan.com/token/0xb7f4EE705Ae6F7E92579550D419fAA722B8FDD4C",
+  "status": "active",
+  "id": "0xb7f4EE705Ae6F7E92579550D419fAA722B8FDD4C",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LGL_Coin_Official/1"
+    },
+    {
+      "name": "geckoterminal",
+      "url": "https://www.geckoterminal.com/bsc/pools/0x2f5996f08529b534175f4db76cf5d5f845d245fb"
+    }
+  ]
+}
